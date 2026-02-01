@@ -54,7 +54,7 @@ I then produce a band level summary of:
 
 ## Files
 
-- **Notebook:** `Task_2_and_3.ipynb`  
+- **Notebook:** `Uncapped_case_study.ipynb`  
   End to end pipeline: data cleaning, feature engineering, modeling, segmentation, and recommendation calculations.
 
 - **Report:** `Uncapped (Case Study Report).docx`  
@@ -93,7 +93,7 @@ pip install pandas numpy matplotlib scikit-learn xgboost lightgbm catboost optun
 ```bash
 jupyter lab
 ```
-Open `Task_2_and_3.ipynb` and run cells top to bottom.
+Open `Uncapped_case_study.ipynb` and run cells top to bottom.
 
 ## Notes on modeling choices
 
